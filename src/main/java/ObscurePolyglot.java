@@ -3,6 +3,8 @@
  * all wrapped into a single Java statement. 
  * 
  * For more insight, see {@link SlightlyLessObscurePolyglot} 
+ * 
+ * cerner_2^5_2019
  */
 public class ObscurePolyglot {
   public static void main(String[] args) throws javax.script.ScriptException {
